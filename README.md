@@ -1,5 +1,6 @@
 # Modern-MP3-Player
-This music player is a modern take on the "Windows Media Player." With the addition of fluid animations and smooth color backgrounds, it becomes much more visualy appealing. 
+This music player is a modern take on the "Windows Media Player"; it comes with the additional feature of a pomodoro timer. With the addition of fluid animations and smooth color backgrounds, taking breaks during study sessions become more fun and enjoyable. 
+
 
 Demo Sample:
 
